@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_contact"
+        android:icon="@drawable/ic_address_book"
+        android:title="Contact List"
+        />
+
+    <item
+        android:id="@+id/menu_address"
+        android:icon="@drawable/ic_contact"
+        android:title="My Address Book"
+        />
+
+</menu>
